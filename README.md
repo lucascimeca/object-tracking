@@ -1,7 +1,7 @@
 
-##Object recognition and tracking February 2016
+## Object recognition and tracking February 2016
 
-####Author: Luca Scimeca
+#### Author: Luca Scimeca
 
 
 
