@@ -3,7 +3,7 @@
 
 #### Author: Luca Scimeca
 
-![Alt Text](https://github.com/lucascimeca/object-tracking/blob/master/assets/objecttaracking_short.gif)
+![Alt Text](./assets/objecttaracking_short.gif)
 
 	- code for the MATLAB functions to do the recognition tasks in MATLAB folder
 	- images for training and testing the functions in Data# folder(s)
